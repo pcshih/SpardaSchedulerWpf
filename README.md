@@ -15,5 +15,8 @@
 - 📝 [Google Docs](https://docs.google.com/document/d/1XtYJrzKNOF9mIhao14KTM3Uin0MpOalD-OWoaBvmSho/edit?usp=drive_link) to view documentation of SpardaSchedulerWpf
 
 ## 📜 Changelog
+### ✨ v2025.09.03.0
+- Fix cli multi problem
+- Add icon to exe
 ### ✨ v2025.08.31.0
 - 🚀 First Launch
